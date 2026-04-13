@@ -1,13 +1,17 @@
 body {
-    background-color: blueviolet;
+    background-color: lightblue;
 
 
 }
 
-.knapp {
+.knapp {}
 
-}
+
 
 footer {
     background-color: bisque;
+}
+
+nav {
+    background-color: aliceblue;
 }
